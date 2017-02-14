@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:textColor">@color/color</item>
+        <item name="android:textColorPrimary">@color/color</item>
+    </style>
+
+</resources>

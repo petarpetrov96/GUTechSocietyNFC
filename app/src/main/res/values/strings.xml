@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GUTS NFC Scanner</string>
+    <string name="choose_scan">Register Attendees</string>
+    <string name="choose_nfc">Check-in food</string>
+    <string name="choose_clear">Clear the Database</string>
+    <string name="scan_nfc">Please scan NFC tag ...</string>
+    <string name="scan_nfc_or">Please scan NFC tag or ...</string>
+    <string name="switch_qr">Switch to QR</string>
+</resources>
